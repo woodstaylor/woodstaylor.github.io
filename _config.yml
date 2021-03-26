@@ -43,7 +43,7 @@ plugins:
 
 author:
   name   : "Taylor Woods"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/fishcode.png"
   bio    : "grad student @ UTK EEB"
   links:
     - label: "Website"
