@@ -51,7 +51,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/woodstaylor"
     - label: "mail"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:woodstaylor@gmail.com"
 
 defaults:
