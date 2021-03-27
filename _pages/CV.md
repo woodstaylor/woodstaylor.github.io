@@ -1,4 +1,4 @@
 ---
 permalink: /CV/
-title: "taylor woods CV"
+title: "CV"
 ---
