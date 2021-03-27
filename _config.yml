@@ -45,10 +45,14 @@ author:
   name   : "taylor woods"
   avatar : "/assets/images/fishcode.jpg"
   bio    : "grad student @ UTK EEB"
+  location: "Knoxville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/woodstaylor"
+    - label: "mail"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:woodstaylor@gmail.com"
 
 defaults:
   # _posts
