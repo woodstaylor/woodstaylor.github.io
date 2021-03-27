@@ -46,9 +46,6 @@ author:
   avatar : "/assets/images/fishcode.jpg"
   bio    : "grad student @ UTK EEB"
   links:
-    - label: "woodstaylorelizabeth@gmail.com"
-      icon: "fas fa-fw fa-mail"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/woodstaylor"
