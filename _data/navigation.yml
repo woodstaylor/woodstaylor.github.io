@@ -3,7 +3,5 @@ main:
     url: /research/
   - title: "dataViz"
     url: /dataViz/
-  - title: "CV"
-    url: /CV/
   - title: "about"
     url: /about/
