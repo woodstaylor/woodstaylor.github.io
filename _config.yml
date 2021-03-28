@@ -43,7 +43,7 @@ plugins:
 
 author:
   name   : "taylor woods"
-  avatar : "/assets/images/fishcode.jpg"
+  avatar : "/assets/images/githubAvatar.jpg"
   bio    : "grad student @ UTK EEB"
   location: "Knoxville, TN"
   links:
