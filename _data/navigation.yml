@@ -3,7 +3,7 @@ main:
     url: /research/
   - title: "dataViz"
     url: /dataViz/
-  - title: "CV"
-    url: /CV/
+  - title: "vitae"
+    url: /vitae/
   - title: "about"
     url: /about/
