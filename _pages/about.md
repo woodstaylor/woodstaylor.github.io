@@ -10,3 +10,5 @@ You can read more about my research on the [research page](https://woodstaylor.g
 When not researching, I enjoy exploring publicly available datasets on almost any topic, running, baking pastries, and watching basketball and baseball.
 
 I love dogs. Especially rescue mutts, and especially pitties and pit mixes - of which I am a proud dog mom to two:
+
+![dogs](/assets/images/dogs.jpg)
