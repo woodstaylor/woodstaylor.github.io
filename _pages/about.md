@@ -11,4 +11,5 @@ When not researching, I enjoy exploring publicly available datasets on almost an
 
 I love dogs. Especially rescue mutts, and especially pitties and pit mixes - of which I am a proud dog mom to two:
 
-![dogs](/assets/images/dogs.jpg)
+<img src="/assets/images/dogs.jpg" alt="doggos" width="200"/>
+Dauphine (left) and Shenandoah (Doah, right)
