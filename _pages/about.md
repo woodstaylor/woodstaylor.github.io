@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi - I'm Taylor! I'm a graduate student in [Xingli Giam's lab](https://giamlab.com) at the [University of Tennessee, Knoxville Department of Ecology and Evolutionary Biology](https://eeb.utk.edu).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+You can read more about my research on the [research page](https://woodstaylor.github.io/research).
+
+When not researching, I enjoy exploring publicly available datasets on almost any topic, running, baking pastries, and watching basketball and baseball.
+
+I love dogs. Especially rescue mutts, and especially pitties and pit mixes - of which I am a proud dog mom to two:
