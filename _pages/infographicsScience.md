@@ -14,7 +14,7 @@ title: "science infographics"
   <img src="/assets/infographics/sp_varimp.jpg" alt="varImp"/>
 </p>
 <p align="center">
-  visualizing the variable importance in species distribution models 
+  visualizing variable importance in species distribution models 
 </p>
 
 <p align="center">
