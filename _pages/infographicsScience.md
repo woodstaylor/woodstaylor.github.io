@@ -2,3 +2,39 @@
 permalink: /infographicsScience/
 title: "science infographics"
 ---
+
+<p align="center">
+  <img src="/assets/images/infographics/fishearth.jpg" alt="gbif" width="500"/>
+</p>
+<p align="center">
+  global distribution of [GBIF](https://www.gbif.org/) records for freshwater fishes
+</p>
+
+<p align="center">
+  <img src="/assets/images/infographics/sp_varimp.jpg" alt="varImp" width="500"/>
+</p>
+<p align="center">
+  visualizing the variable importance in species distribution models 
+</p>
+
+<p align="center">
+  <img src="/assets/images/infographics/park_biodiv.jpg" alt="parkBio" width="500"/>
+</p>
+<p align="center">
+  biodiversity in US national parks 
+</p>
+
+<p align="center">
+  <img src="/assets/images/infographics/basinfam.jpg" alt="basinFam" width="500"/>
+</p>
+<p align="center">
+  the most speciose freshwater fish family in US river basins 
+</p>
+
+<p align="center">
+  <img src="/assets/images/infographics/hydrograph_compare.jpg" alt="hydrograph" width="500"/>
+  <img src="/assets/images/infographics/gages_map.jpg" alt="gages" width="500"/>
+</p>
+<p align="center">
+  comparing hydrographs of streamflow from gages in AZ (intermittent stream) and AL (perennial stream)
+</p>

@@ -15,6 +15,10 @@ For interactive graphics, I have used HTML and javascript (including D3). More r
 + [US aquatic community science](https://woodstaylor.shinyapps.io/fwCommSci/): a dataset showcasing the present state of US community science programs targeting aquatic habitats
 + [size spectra](https://sizespectra.shinyapps.io/sizespectra_app/): a tool to teach aquatic size spectra techniques and allow researchers to input their own datasets
 
-
-
+Here are examples of infographics I've made, sorted into categories (you can also view and download these files in individual posts on the home page):
++ [science](https://woodstaylor.github.io/infographicsScience/)
++ [sports](https://woodstaylor.github.io/infographicsSports/)
++ [food (& beverage)](https://woodstaylor.github.io/infographicsFood/)
++ [politics](https://woodstaylor.github.io/infographicsPolitics/)
++ [everything else](https://woodstaylor.github.io/infographicsMisc/)
 
