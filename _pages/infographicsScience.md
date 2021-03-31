@@ -4,7 +4,7 @@ title: "science infographics"
 ---
 
 <p align="center">
-  <img src="/assets/infographics/fishearth.jpg" style="width: 25%; height: 25%"/>
+  <img src="/assets/infographics/fishearth.jpg" alt="gbif"/>
 </p>
 <p align="center">
   global distribution of GBIF records for freshwater fishes
