@@ -18,11 +18,11 @@ I adress these questions across spatial scales, from local (catchment-scale) to 
 
 #### biodiversity
 
-In addition to taxonomic diversity, understanding how functional diversity is impacted by global change 
+In addition to taxonomic diversity, understanding how functional diversity is impacted by global change will help identify impacts on ecosystem functioning.
 
 #### body size/biomass
 
 
 #### phenology
 
-The timing of reproductive and life cycle events (phenology) is well investigated in terrestrial environments, whereas freshwater phenology is understudied. However, freshwater phenology is likely to experience unique stressors 
+The timing of reproductive and life cycle events (phenology) is well investigated in terrestrial environments, whereas freshwater phenology is understudied. 
