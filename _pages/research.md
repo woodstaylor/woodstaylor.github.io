@@ -12,11 +12,9 @@ My research broadly addresses the following questions in freshwaters:
 + how do phenology regimes respond to changing environmental contexts?
 
 I adress these questions across spatial scales, from local (catchment-scale) to regional (continental/global).
+![bergmann's sites](/assets/images/studySitesBerg.jpg)
+locations of fish assemblages and populations analyzed to identify abiotic drivers of body size across biological scales
 
-<p align="center">
-  <img src="/assets/images/studySitesBerg.jpg" alt="bergsites"/>
-  locations of fish assemblages and populations analyzed to identify abiotic drivers of body size across biological scales
-</p>
 
 #### biodiversity
 
