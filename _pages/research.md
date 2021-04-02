@@ -15,15 +15,15 @@ Streams and rivers are the most biodiverse systems globally, and a disproportion
 
 + how is biodiversity distributed across space and through time?
 
-Ecological communities will reorganize as species distributions shift in response to global change. Specifically, species are expected to shift ranges towards higher elevations and latitudes. My research uses statistics and modelling to understand what drives the magnitude of biodiversity in a system and how species distributions will shift in the future. In addition to taxonomic diversity, I also investigate patterns in functional diversity to infer potential effects of global change ecosystem functioning.
+Ecological communities will reorganize as species distributions shift in response to global change. Specifically, species are expected to shift ranges towards higher elevations and away from the equator. My research uses statistics and modelling to understand what drives the magnitude of biodiversity in a system and how species distributions will shift in the future. In addition to taxonomic diversity, I also investigate patterns in functional diversity to infer potential effects of global change ecosystem functioning.
 
 <img src="/assets/images/fwProd.jpg" alt="prod" width="600"/>
 
 *piecewise path analysis disentangling the effects of taxonomic and functional diversity on fish community biomass*
 
-#### body size/biomass
+#### body size
 
-+ what factors constrain biomass from organisms to communities?
++ what factors constrain body size from organisms to communities?
 
 Body size in stream systems varies drastically, from fishes that reach adult size at < 1.0 gram to megafauna weighing over 1000 kg. With increasing temperatures, body size patterns will likely be altered, with smaller body sizes thought to be favored by warmer environments. My research examines spatiotemporal patterns in body size across biological scales and allometric relationships that describe constraints on body size and associated functional traits.
 
@@ -35,7 +35,7 @@ Body size in stream systems varies drastically, from fishes that reach adult siz
 
 + how do phenology regimes respond to changing environmental contexts?
 
-Studies from terrestrial environments show shifts in the timing of reproductive and life cycle events (phenology) in response to global change. However, whether similar shifts are observed in freshwater environments is seldom examined. My research seeks to reveal how stream temperature and flow determine the timing of macroinvertebrate emergence and fish spawning events.
+Studies from terrestrial environments show shifts in the timing of reproductive and life cycle events (phenology) in response to global change. However, whether similar shifts are observed in freshwater environments is seldom examined. My research seeks to reveal how stream temperature and flow determine the timing of macroinvertebrate emergence and fish spawning events and understand how species senstitivities to these environmental cues relate to species traits.
 
 <img src="/assets/images/phenology.jpg" alt="bergsites" width="600"/>
 
