@@ -1,0 +1,27 @@
+---
+title: "fish maps"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - infographics
+  - science
+---
+
+<!--more-->
+The map below uses [GBIF](https://www.sciencebase.gov/catalog/item/5446a5a1e4b0f888a81b816d) museum records downloaded for all ray-finned fishes. 
+
+<img src="/assets/infographics/fishearth.jpg" alt="fishearth"/>
+This map shows the number of occurrence records aggregated into grid cells, globally. The maps reveal sampling biases in the number of museum specimens, with sampling hotspots in tempreate countries (US, Europe, and New Zealand). [Download here](https://github.com/woodstaylor/woodstaylor.github.io/raw/master/assets/infographics/fishearth.pdf).
+
+<!--more-->
+The maps below use the [IchthyMaps dataset](https://www.sciencebase.gov/catalog/item/5446a5a1e4b0f888a81b816d) to visualize patterns in US fish community and sampling. 
+
+<img src="/assets/infographics/ichthysegs.jpg" alt="ichthysegs"/>
+This map shows the species richness calculated at the stream segment scale from historical fish atlas data. The biodiversity trends visualized deviate those that would be expected from the true distribution of species richness, revealing the presence of geographic sampling biases. [Download here](https://github.com/woodstaylor/woodstaylor.github.io/raw/master/assets/infographics/ichthysegs.pdf).
+
+<img src="/assets/infographics/basinfam.jpg" alt="basinfam"/>
+This map indicates the most speciose family in each US river basin. Here, the Cyprinidae are often the richest family at the basin scale, indicating the diversity of this family in the US. [Download here](https://github.com/woodstaylor/woodstaylor.github.io/raw/master/assets/infographics/basinfam.pdf).
+
+<img src="/assets/infographics/ichtyrich.jpg" alt="ichtyrich"/>
+This map plots the relationship between species richness and family richness across spatial scales in the US. Species richness is highest in the southeastern US and family richness is generally higher near coastlines. [Download here](https://github.com/woodstaylor/woodstaylor.github.io/raw/master/assets/infographics/ichtyrich.pdf).
