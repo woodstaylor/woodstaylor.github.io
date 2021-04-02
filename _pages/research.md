@@ -5,7 +5,7 @@ title: "research"
 
 ### stream macroecology
 
-Streams and rivers are the most biodiverse systems globally, and a disproportionate amount of biodiversity in these systems is threatened by global change. My research seeks to understand ecological patterns and apply this knowledge to forecast effects of ongoing global change (climate and land-use/land-cover change and interactions among stressors) in these environments. I rely on publicly available data collected by professional researchers, community scientists, and government agencies for my research to address these aims at large spatiotemporal scales.
+Streams and rivers are the most biodiverse systems globally, and a disproportionate amount of biodiversity in these systems is threatened by global change. My research seeks to understand ecological patterns and apply this knowledge to forecast effects of ongoing global change (climate and land-use/land-cover change and interactions among stressors) in these environments. I use publicly available data collected by professional researchers, community scientists, and government agencies for my research to address these aims at large spatiotemporal scales.
 
 <img src="/assets/images/TVA_fish_5.6.jpg" alt="tnfish" width="600"/>
 
@@ -15,7 +15,7 @@ Streams and rivers are the most biodiverse systems globally, and a disproportion
 
 + how is biodiversity distributed across space and through time?
 
-Ecological communities will reorganize as species distributions shift in response to global change. Specifically, species are expected to shift ranges towards higher elevations and away from the equator. My research uses statistics and modelling to understand what drives the magnitude of biodiversity in a system and how species distributions will shift in the future. In addition to taxonomic diversity, I also investigate patterns in functional diversity to infer potential effects of global change ecosystem functioning.
+Ecological communities will reorganize as species distributions shift in response to global change. Specifically, species are expected to shift ranges towards higher elevations and higher absolute latitudes. My research uses statistics and modelling to understand what drives the magnitude of biodiversity in a system and how species distributions will shift in the future. In addition to taxonomic diversity, I also investigate patterns in functional diversity to infer potential effects of global change ecosystem functioning.
 
 <img src="/assets/images/fwProd.jpg" alt="prod" width="600"/>
 
