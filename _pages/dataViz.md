@@ -5,7 +5,7 @@ title: "dataViz"
 
 I like to analyze and visualize free datasets on almost any topic, but my favorites are science, sports, food, and politics.
 
-My preferred programming languages are R and Python and I use the Adobe suite (Illustrator and InDesign) finishing touches on infographics.
+My preferred programming languages are R and Python and I use the Adobe suite (Illustrator and InDesign) for infographics.
 
 Here are examples of infographics I've made, sorted into categories (you can also view and download these files in individual posts on the home page):
 + [science](https://woodstaylor.github.io/infographicsScience/)
