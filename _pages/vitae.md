@@ -26,4 +26,4 @@ title: "vitae"
 </ul>
 
 <h3><i class="fas fa-fw fa-laptop-code"></i> Skills </h3>
-<i class="fab fa-fw fa-r-project"><i class="fab fa-fw fa-python"><i class="fab fa-fw fa-markdown">
+<i class="fab fa-fw fa-r-project"></i><i class="fab fa-fw fa-python"></i><i class="fab fa-fw fa-markdown"></i>
