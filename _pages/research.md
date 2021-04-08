@@ -5,7 +5,7 @@ title: "research"
 
 ### stream macroecology
 
-Streams and rivers are the most biodiverse systems globally, and a disproportionate amount of biodiversity in these systems is threatened by global change. My research seeks to understand ecological patterns and apply this knowledge to forecast effects of ongoing global change (climate and land-use/land-cover change and interactions among stressors) in these environments. 
+Streams and rivers are the most biodiverse (per unit area) ecological systems, and a disproportionate amount of biodiversity in these habitats is threatened by global change. My research seeks to understand ecological patterns and apply this knowledge to forecast effects of ongoing global change in these environments. 
 
 I focus on 3 common expected ecological responses to global change (and exceptions to these expectations):
 + shifts in species ranges toward higher elevations and latitudes
@@ -20,7 +20,7 @@ I use publicly available data collected by professional researchers, community s
 
 #### biodiversity
 
-Ecological communities will reorganize as species distributions shift in response to global change. Specifically, species are expected to shift ranges towards higher elevations and higher absolute latitudes. My research uses statistics and modelling to understand what drives the magnitude of biodiversity in a system and how species distributions will shift in the future. In addition to taxonomic diversity, I also investigate patterns in functional diversity to infer potential effects of global change ecosystem functioning.
+Ecological communities will reorganize as species distributions shift in response to global change. Specifically, species are expected to shift ranges towards higher elevations and (absolute) latitudes. My research uses statistics and modelling to understand what drives the magnitude of biodiversity in a system and how species distributions will shift in the future. In addition to taxonomic diversity, patterns in functional diversity can infer potential effects of global change ecosystem functioning.
 
 <img src="/assets/images/fwProd.jpg" alt="prod" width="600"/>
 
@@ -28,7 +28,7 @@ Ecological communities will reorganize as species distributions shift in respons
 
 #### body size
 
-Body size in stream systems varies drastically, from fishes that reach adult size at < 1.0 gram to megafauna weighing over 1000 kg. With increasing temperatures, body size patterns will likely be altered, with smaller body sizes thought to be favored by warmer environments. My research examines spatiotemporal patterns in body size across biological scales and allometric relationships that describe constraints on body size and associated functional traits.
+Body size in stream systems varies from fishes that reach adult size at < 1.0 gram to megafauna weighing over 1000 kg. With increasing temperatures, body size patterns will likely be altered, with smaller body sizes thought to be favored by warmer environments. My research examines spatiotemporal patterns in body size across biological scales and allometric relationships that describe constraints on body size and associated functional traits.
 
 <img src="/assets/images/studySitesBerg.jpg" alt="bergsites" width="600"/>
 
