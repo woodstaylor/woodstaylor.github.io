@@ -7,7 +7,7 @@ title: "research"
 
 Streams and rivers are the most biodiverse (per unit area) ecological systems, and a disproportionate amount of biodiversity in these habitats is threatened by global change. My research seeks to understand ecological patterns and apply this knowledge to forecast effects of ongoing global change in these environments. 
 
-I focus on 3 common expected ecological responses to global change (and exceptions to these expectations):
+I focus on 3 common ecological responses to global change:
 + shifts in species ranges toward higher elevations and latitudes
 + shifts in body size toward smaller-bodied individuals
 + shifts in seasonal life history/life cycle events toward earlier timing
@@ -20,7 +20,7 @@ I use publicly available data collected by professional researchers, community s
 
 #### biodiversity
 
-Ecological communities will reorganize as species distributions shift in response to global change. Specifically, species are expected to shift ranges towards higher elevations and (absolute) latitudes. My research uses statistics and modelling to understand what drives the magnitude of biodiversity in a system and how species distributions will shift in the future. In addition to taxonomic diversity, patterns in functional diversity can infer potential effects of global change ecosystem functioning.
+Ecological communities will reorganize as species distributions shift in response to global change. Species are expected to shift ranges towards higher elevations and (absolute) latitudes. My research analyzes what factors determine the magnitude of biodiversity in a system and how spatiotemporal biodiversity patterns will redistribute in the future. In addition to taxonomic diversity, patterns in functional diversity can infer potential effects of global change ecosystem functioning.
 
 <img src="/assets/images/fwProd.jpg" alt="prod" width="600"/>
 
@@ -28,7 +28,7 @@ Ecological communities will reorganize as species distributions shift in respons
 
 #### body size
 
-Body size in stream systems varies from fishes that reach adult size at < 1.0 gram to megafauna weighing over 1000 kg. With increasing temperatures, body size patterns will likely be altered, with smaller body sizes thought to be favored by warmer environments. My research examines spatiotemporal patterns in body size across biological scales and allometric relationships that describe constraints on body size and associated functional traits.
+Stream fish body sizes vary from species that reach adult size at < 1.0 gram to megafauna weighing over 1000 kg. With increasing temperatures, body size patterns will likely be altered, with smaller body sizes likely favored by warmer environments. My research examines spatiotemporal patterns in body size and allometric relationships that describe how body size scales with rates and traits across biological scales.
 
 <img src="/assets/images/studySitesBerg.jpg" alt="bergsites" width="600"/>
 
@@ -36,7 +36,7 @@ Body size in stream systems varies from fishes that reach adult size at < 1.0 gr
 
 #### phenology
 
-Studies from terrestrial environments show shifts in the timing of reproductive and life cycle events (phenology) in response to global change. However, whether similar shifts are observed in freshwater environments is seldom examined. My research seeks to reveal how stream temperature and flow determine the timing of macroinvertebrate emergence and fish spawning events and understand how species senstitivities to these environmental cues relate to species traits.
+Studies from terrestrial environments exhibit shifts in the timing of reproductive and life cycle events (phenology) in response to global change. However, whether similar shifts are observed in freshwater environments is seldom examined. My research seeks to reveal how stream temperature and flow determine the timing of macroinvertebrate emergence and fish spawning events and understand how species senstitivities to these environmental cues relate to species traits.
 
 <img src="/assets/images/phenology.jpg" alt="bergsites" width="600"/>
 
