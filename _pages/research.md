@@ -3,6 +3,8 @@ permalink: /research/
 title: "research"
 ---
 
+<img src="/assets/images/fishcode.jpg" alt="fish" width="200"/>
+
 ### stream macroecology
 
 Streams and rivers are the most biodiverse (per unit area) ecological systems, and a disproportionate amount of biodiversity in these habitats is threatened by global change. My research seeks to understand ecological patterns and apply this knowledge to forecast effects of ongoing global change in these environments. 
