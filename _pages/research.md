@@ -3,7 +3,7 @@ permalink: /research/
 title: "research"
 ---
 
-<img src="/assets/images/fishcode.jpg" alt="fish" width="200"/>
+<img src="/assets/images/fishcode.jpg" alt="fish"/>
 
 ### stream macroecology
 
