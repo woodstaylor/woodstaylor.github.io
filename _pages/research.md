@@ -18,7 +18,7 @@ I use publicly available data collected by professional researchers, community s
 
 *fishes sampled in the Tennessee River, clockwise from top left: greenside darter, snail darter, redline darter, silver chub*
 
-#### biodiversity
+####![fishcode](/assets/images/fishcode.jpg) biodiversity
 
 Ecological communities will reorganize as species distributions shift in response to global change. Species are expected to shift ranges towards higher elevations and (absolute) latitudes. My research analyzes what factors determine the magnitude of biodiversity in a system and how spatiotemporal biodiversity patterns will redistribute in the future. In addition to taxonomic diversity, patterns in functional diversity can infer potential effects of global change ecosystem functioning.
 
@@ -26,7 +26,7 @@ Ecological communities will reorganize as species distributions shift in respons
 
 *piecewise path analysis disentangling the effects of taxonomic and functional diversity on fish community biomass*
 
-#### body size
+#### ![fishcode](/assets/images/fishcode.jpg) body size
 
 Stream fish body sizes vary from species that reach adult size at < 1.0 gram to megafauna weighing over 1000 kg. With increasing temperatures, body size patterns will likely be altered, with smaller body sizes likely favored by warmer environments. My research examines spatiotemporal patterns in body size and allometric relationships that describe how body size scales with rates and traits across biological scales.
 
@@ -34,7 +34,7 @@ Stream fish body sizes vary from species that reach adult size at < 1.0 gram to 
 
 *locations of fish assemblages and populations analyzed to identify drivers of body size across biological scales*
 
-#### phenology
+#### ![fishcode](/assets/images/fishcode.jpg) phenology
 
 Studies from terrestrial environments exhibit shifts in the timing of reproductive and life cycle events (phenology) in response to global change. However, whether similar shifts are observed in freshwater environments is seldom examined. My research seeks to reveal how stream temperature and flow determine the timing of macroinvertebrate emergence and fish spawning events and understand how species senstitivities to these environmental cues relate to species traits.
 
