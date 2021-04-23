@@ -18,7 +18,7 @@ I use publicly available data collected by professional researchers, community s
 
 *fishes sampled in the Tennessee River, clockwise from top left: greenside darter, snail darter, redline darter, silver chub*
 
-####![fishcode](/assets/images/fishcode.jpg) biodiversity
+#### ![fishcode](/assets/images/fishcode.jpg) biodiversity
 
 Ecological communities will reorganize as species distributions shift in response to global change. Species are expected to shift ranges towards higher elevations and (absolute) latitudes. My research analyzes what factors determine the magnitude of biodiversity in a system and how spatiotemporal biodiversity patterns will redistribute in the future. In addition to taxonomic diversity, patterns in functional diversity can infer potential effects of global change ecosystem functioning.
 
