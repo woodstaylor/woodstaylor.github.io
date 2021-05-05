@@ -18,7 +18,7 @@ I use publicly available data collected by professional researchers, community s
 
 #### ![fishcode](/assets/images/fishcode.jpg) biodiversity
 
-Ecological communities will reorganize as species distributions shift in response to global change. My research analyzes what factors determine the magnitude of biodiversity in a system, how biodiversity will redistribute in the future, and effects of this reorganization on freshwater ecosystem functioning.
+Ecological communities will reorganize as species distributions shift in response to global change. My research analyzes what factors determine multiple aspects of biodiversity  (taxonomic, functional, alpha, and beta diversity) in a system and how biodiversity will redistribute in the future.
 
 <img src="/assets/images/fwProd.jpg" alt="prod" width="600"/>
 
