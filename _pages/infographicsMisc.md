@@ -11,6 +11,13 @@ title: "infographics on everything else"
 </p>
 
 <p align="center">
+  <img src="/assets/infographics/USpop.jpg" alt="seinfeld"/>
+</p>
+<p align="center">
+  mapping county percentages of state population
+</p>
+
+<p align="center">
   <img src="/assets/infographics/presentation_flyer.jpg" alt="thesis"/>
 </p>
 <p align="center">
