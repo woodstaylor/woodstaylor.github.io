@@ -1,5 +1,5 @@
 ---
-title: "US population mapps"
+title: "US population maps"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
