@@ -4,6 +4,13 @@ title: "sports infographics"
 ---
 
 <p align="center">
+  <img src="/assets/infographics/MLBnetworks.jpg" alt="MLBnet"/>
+</p>
+<p align="center">
+  MLB team-player networks
+</p>
+
+<p align="center">
   <img src="/assets/infographics/marchmadness.jpg" alt="madness"/>
 </p>
 <p align="center">
