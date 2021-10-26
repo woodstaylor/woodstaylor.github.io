@@ -1,5 +1,5 @@
 ---
-title: "Network analysis: MLB"
+title: "network analysis: MLB"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
