@@ -2,6 +2,12 @@
 permalink: /infographicsScience/
 title: "science infographics"
 ---
+<p align="center">
+  <img src="/assets/infographics/climChng.jpg" alt="clim"/>
+</p>
+<p align="center">
+  recent US climate change
+</p>
 
 <p align="center">
   <img src="/assets/infographics/fishearth.jpg" alt="gbif"/>
