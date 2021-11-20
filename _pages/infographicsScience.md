@@ -10,6 +10,13 @@ title: "science infographics"
 </p>
 
 <p align="center">
+<img src="/assets/infographics/taxonomySum.jpg" alt="pictograph"/>
+</p>
+<p align="center">
+  dataset summary of taxonomic hierarchy and body size among Odonates
+</p>
+
+<p align="center">
   <img src="/assets/infographics/fishearth.jpg" alt="gbif"/>
 </p>
 <p align="center">
