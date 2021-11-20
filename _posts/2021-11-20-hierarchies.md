@@ -11,7 +11,7 @@ tags:
 Here are a couple ways of exploring hierarchical (nested) data in R. This dataset consisted of taxonomic (order, family, genus, species) data for dragonflies and damselflies. I wanted to visualize the representation of species in the dataset across biological levels.
 
 <p align="center">
-<img src="/assets/infographics/taxonomy_Sum_circlepack.jpg" alt="circlepack"/>
+<img src="/assets/infographics/taxonomy_circlepack.jpg" alt="circlepack"/>
 </p>
 
 ^ This first approach used a [circle pack diagram](https://www.r-graph-gallery.com/circle-packing.html). The circle size represents the number of species per level, with the finest resolution being genera (filled blue cirles). This was realitively easy to code with the [igraph package](https://github.com/igraph/rigraph). But I wanted to also show species attributes on the graph (e.g., relative differences in body size among species).
