@@ -3,9 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Hi - I'm Taylor! I'm a graduate student in [Xingli Giam's lab](https://giamlab.com) at the [University of Tennessee, Knoxville Department of Ecology and Evolutionary Biology](https://eeb.utk.edu).
+Hi - I'm Taylor! I'm a postdoctoral researcher at with the [US Geological Survey](https://usgs.gov) at the [Eastern Ecological Science Center](https://usgs.gov/centers.eesc).
 
-I'm a freshwater macroecologist. My research examines processes underlying patterns in biodiversity, body size, and phenology and how ongoing gloabl change affects these patterns.
+I'm a freshwater macroecologist. My research examines processes underlying patterns in biodiversity, body size, and phenology and how ongoing global change affects these patterns.
 
 When not researching, I enjoy visualizing datasets on almost any topic, running, watching basketball and baseball (go Cards!), baking pastries, churning ice creams, and whipping meringues.
 

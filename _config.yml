@@ -44,8 +44,8 @@ plugins:
 author:
   name   : "taylor woods"
   avatar : "/assets/images/githubAvatar.jpg"
-  bio    : "grad student @ UTK EEB"
-  location: "Knoxville, TN"
+  bio    : "postdoc @ USGS"
+  location: "EESC @ Leetown"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

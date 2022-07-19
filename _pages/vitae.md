@@ -5,10 +5,17 @@ title: "vitae"
 
 [Download CV](https://github.com/woodstaylor/CV/raw/main/woodsTaylor_CV.pdf)
 
+<h3><i class="fas fa-fw fa-terminal"></i> Appointments </h3>
+<ul>
+<li> Postdoctoral Researcher - Quantitative Ecologist (2022 - Present) 
+<ul>
+<li> US Geological Survey, Eastern Ecological Science Center </li>
+<li> Leetown Research Laboratory, Kearneysville, WV </li>
+</ul>
 
 <h3><i class="fas fa-fw fa-graduation-cap"></i> Education </h3>
 <ul>
-<li> PhD Ecology and Evolutionary Biology (2018 - present) 
+<li> PhD Ecology and Evolutionary Biology (2018 - 2022) 
 <ul>
 <li> University of Tennessee, Knoxville, TN </li>
 </ul>
