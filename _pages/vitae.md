@@ -9,8 +9,7 @@ title: "vitae"
 <ul>
 <li> Postdoctoral Researcher - Quantitative Ecologist (2022 - Present) 
 <ul>
-<li> US Geological Survey, Eastern Ecological Science Center </li>
-<li> Leetown Research Laboratory, Kearneysville, WV </li>
+<li> US Geological Survey, Eastern Ecological Science Center, Leetown Research Laboratory, Kearneysville, WV </li>
 </ul>
 
 <h3><i class="fas fa-fw fa-graduation-cap"></i> Education </h3>
