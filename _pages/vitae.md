@@ -12,6 +12,7 @@ title: "vitae"
 <li> US Geological Survey, Eastern Ecological Science Center, Leetown Research Laboratory, Kearneysville, WV </li>
 </ul>
 </li>
+</ul>
 
 <h3><i class="fas fa-fw fa-graduation-cap"></i> Education </h3>
 <ul>
